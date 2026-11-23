@@ -52,4 +52,4 @@ No installation or build step is needed.
 
 ## Author
 
-Your Name – [GitHub](https://github.com/<your-username>)
+Your Name – [GitHub](https://github.com/sarthakgoyal16)
